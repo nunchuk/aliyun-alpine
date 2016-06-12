@@ -1,9 +1,9 @@
 ############################################################ 
 # Dockerfile to build Alpine image for aliyun ecs
-# Based on Alpine:3.2
+# Based on Alpine:3.3
 ############################################################
 
-FROM alpine:3.2
+FROM alpine:3.3
 MAINTAINER XinYe <nunchuk@live.com>
 
 # Add USTC repo

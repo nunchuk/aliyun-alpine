@@ -5,7 +5,9 @@
 
 This Docker image is based on the Docker official Alpine image with chinese localization.
 
-* `3.2`,`3.3`,`3.4`
+* `3.2`
+* `3.3`
+* `3.4`,`last`
 
 ## Modified list
 
